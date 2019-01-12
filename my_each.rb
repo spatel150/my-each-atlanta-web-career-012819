@@ -1,3 +1,4 @@
 def my_each(colletion)
-  if 
+  if block_given?
+  
 end

@@ -5,4 +5,5 @@ def my_each(colletion)
     yield(collection[i])
     i += 1
   end
+  collection
 end
